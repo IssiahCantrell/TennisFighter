@@ -1,5 +1,4 @@
-Tennis Fighter is a simple phone application that consists of a 2d shooter that utilizes the Unity3D 
-game engine for Sprite rendering, 2D colliders, RigidBodys and audio.
+Tennis Fighter is a simple phone application that consists of a 2d shooter that utilizes the Unity3D game engine for Sprite rendering, 2D colliders, RigidBodys and audio.
 
 -how to play:
 	-swip left side of screen to move left and right.

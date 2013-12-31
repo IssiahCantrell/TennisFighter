@@ -1,0 +1,21 @@
+Tennis Fighter is a simple phone application that consists of a 2d shooter that utilizes the Unity3D 
+game engine for Sprite rendering, 2D colliders, RigidBodys and audio.
+
+-how to play:
+	-swip left side of screen to move left and right.
+	-tap right side of screen to hit tennis balls.
+	
+	-Avoid the red bouncing balls!
+		-Don't get hit 10 times!
+		-Hit them with tennis balls to make them disappear.
+		
+The app also utilizes content from the Dark Future Music and 8 Bit Retro Rampage audio libraries. 
+
+Dark Future Music
+Publisher: Red Button Audio
+https://www.assetstore.unity3d.com/#/content/7946
+
+8 Bit Retro Rampage
+Publisher: Affordable Audio 4 Everyone
+https://www.assetstore.unity3d.com/#/content/3777
+		
